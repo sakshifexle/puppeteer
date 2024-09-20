@@ -1,0 +1,29 @@
+{
+    "id": {
+        "name": {
+            "first": "Sakshi",
+            "last": "Vishwakarma"
+        },
+        "animal": "Dog",
+        "color": "Yellow",
+        "breed": "Carolina Dog"
+    },
+    "shots": [
+        {
+            "type": "Heartworm",
+            "date": "2017-07-27"
+        },
+        {
+            "type": "Intestinal Parasites",
+            "date": "2017-02-11"
+        },
+        {
+            "type": "Kennel Cough",
+            "date": "2017-01-05"
+        },
+        {
+            "type": "Rabies",
+            "date": "2017-02-07"
+        }
+    ]
+}
