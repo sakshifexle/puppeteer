@@ -13,10 +13,10 @@ Before setting up the project, ensure you have the following installed:
 
 ## Installation
 Clone the repository:
-`git clone https://github.com/your-repo/puppeteer-pdf-generation.git`
+`https://github.com/sakshifexle/puppeteer.git`
 
 Navigate to the project directory:
-`cd puppeteer-pdf-generation`
+`cd puppeteer`
 
 Install the dependencies:
 `npm install`
