@@ -1,10 +1,10 @@
 # Puppeteer
 
 ## Features
--- Generates a PDF from an HTML template.
--- Uses Handlebars for dynamic content in the template.
--- Date formatting with moment.js.
--- Outputs PDF in A4 format with background printing enabled.
+- Generates a PDF from an HTML template.
+- Uses Handlebars for dynamic content in the template.
+- Date formatting with moment.js.
+- Outputs PDF in A4 format with background printing enabled.
 
 ## Prerequisites
 Before setting up the project, ensure you have the following installed:
